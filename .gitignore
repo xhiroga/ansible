@@ -114,5 +114,6 @@ changelogs/.plugin-cache.yaml
 .ansible-test-timeout.json
 # debug
 ansible.cfg
-hosts.yml
+hosts
+ssh_config
 playbooks
